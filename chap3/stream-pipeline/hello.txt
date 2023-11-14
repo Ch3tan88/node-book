@@ -1,0 +1,8 @@
+Add some dummy text data to the file.txt file:
+Node.js is a JavaScript runtime built on Google Chrome's 
+V8 JavaScript engine.
+Node.js is a JavaScript runtime built on Google Chrome's 
+V8 JavaScript engine.
+Node.js is a JavaScript runtime built on Google Chrome's 
+V8 JavaScript engine.
+Now, we're ready to move on to the recipe

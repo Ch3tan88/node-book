@@ -1,0 +1,12 @@
+const fs = require("fs")
+
+const rs = fs.createReadStream("./hello.txt");
+
+rs.on("data",(data)=>{
+	console.log("Read chunk:",data.toString())
+})
+
+
+rs.on("end",()=>{
+	console.log("no more data")
+})
